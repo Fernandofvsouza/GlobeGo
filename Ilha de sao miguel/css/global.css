@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@200..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --fonte-logo:"Unbounded", serif;
+    --fonte-main:"Lato", serif;
+    --white:#fff;
+    --black:#000;
+    --cor01: #e9e5d6;
+    --cor02: #acb992;
+    --cor03: #464e2e;
+    --cor04: #dc9900;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    
+}
+img{
+    max-width: 500px;
+}

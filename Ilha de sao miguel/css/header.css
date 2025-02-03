@@ -1,0 +1,38 @@
+header{
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: var(--cor03);
+}
+
+.logo{
+    font-family: var(--fonte-logo);
+    font-size: 2rem;
+    color:var(--cor04) ;
+    
+    margin-left: 2rem;
+}
+ul{
+    display: flex;
+    gap: 40px;
+    margin-right: 3rem;
+    
+    
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+    font-family: var(--fonte-main);
+    font-weight: bold;
+    color: var(--cor01);
+    text-transform: uppercase;
+    transition: 0.5s;
+}
+
+a, li:hover{
+    color: var(--cor04);
+    
+}

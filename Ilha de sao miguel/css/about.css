@@ -1,0 +1,33 @@
+.about-container{
+    height: 807px;
+    background-image: url(../assets/açores.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.about{
+    color: var(--cor01);
+    font-family: var(--fonte-main);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+
+    margin-bottom: 6rem;
+
+}
+.about-text{
+    color: var(--cor01);
+    font-family: var(--fonte-main);
+    text-transform: uppercase;
+    line-height: 2rem;
+
+    margin-bottom: 4rem;
+}
+span{
+    color: var(--cor04);
+}
