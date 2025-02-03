@@ -1,0 +1,16 @@
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: var(--cor03);
+    height: 3rem;
+}
+
+
+.footer-text{
+    color: var(--cor01);
+    
+}
+
+.footer-link:hover{
+    color: var(--cor02);
+}

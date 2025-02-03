@@ -1,0 +1,245 @@
+.tourism-container{
+    height: 1700px;
+    background-color: var(--cor02);
+    display: flex;
+    flex-direction: column;
+}
+
+.tourism-title{
+    font-family: var(--fonte-main);
+    font-size: 3rem;
+    color: var(--cor03);
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.tourism{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    
+}
+
+
+
+
+
+.first-tourism{
+    display: flex;
+    justify-content: space-between;
+    
+
+    height: 350px;
+    width: 1500px;
+    
+
+    border-radius: 20px;
+    background-color: #e9e5d6bb;
+    
+}
+.first-img-tourism{
+    height: 350px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.sub-first-tourism{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    margin-left: 250px;
+    margin-right: 250px;
+
+    
+}
+.first-description-tourism{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: start;
+    font-family: var(--fonte-main);
+    font-size: 0.8rem;
+    font-weight: 900;
+    line-height: 30px;
+    
+    color: var(--cor03)
+}
+
+.first-title-tourism{
+    font-family: var(--fonte-main);
+    font-size: 1.5rem;
+    font-weight: 900;
+    color: var(--cor03);
+    padding-bottom: 20px;
+
+}
+
+
+
+
+
+.second-tourism{
+    display: flex;
+    justify-content: space-between;
+    
+
+    height: 350px;
+    width: 1500px;
+    
+
+    border-radius: 20px;
+    background-color: #e9e5d6bb;
+    
+}
+.second-img-tourism{
+    height: 350px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.sub-second-tourism{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    margin-left: 250px;
+    margin-right: 250px;
+
+    
+}
+.second-description-tourism{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: start;
+    font-family: var(--fonte-main);
+    font-size: 0.8rem;
+    font-weight: 900;
+    line-height: 30px;
+    
+    color: var(--cor03)
+}
+
+.second-title-tourism{
+    font-family: var(--fonte-main);
+    font-size: 1.5rem;
+    font-weight: 900;
+    color: var(--cor03);
+    padding-bottom: 20px;
+
+}
+
+
+
+
+
+
+.third-tourism{
+    display: flex;
+    justify-content: space-between;
+    
+
+    height: 350px;
+    width: 1500px;
+    
+
+    border-radius: 20px;
+    background-color: #e9e5d6bb;
+    
+}
+.third-img-tourism{
+    height: 350px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.sub-third-tourism{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    margin-left: 250px;
+    margin-right: 250px;
+
+    
+}
+.third-description-tourism{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: start;
+    font-family: var(--fonte-main);
+    font-size: 0.8rem;
+    font-weight: 900;
+    line-height: 30px;
+    
+    color: var(--cor03)
+}
+
+.third-title-tourism{
+    font-family: var(--fonte-main);
+    font-size: 1.5rem;
+    font-weight: 900;
+    color: var(--cor03);
+    padding-bottom: 20px;
+
+}
+
+
+
+
+
+.fourth-tourism{
+    display: flex;
+    justify-content: space-between;
+    
+
+    height: 350px;
+    width: 1500px;
+    
+
+    border-radius: 20px;
+    background-color: #e9e5d6bb;
+    
+}
+.fourth-img-tourism{
+    height: 350px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.sub-fourth-tourism{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    margin-left: 250px;
+    margin-right: 250px;
+
+    
+}
+.fourth-description-tourism{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: start;
+    font-family: var(--fonte-main);
+    font-size: 0.8rem;
+    font-weight: 900;
+    line-height: 30px;
+    
+    color: var(--cor03)
+}
+
+.fourth-title-tourism{
+    font-family: var(--fonte-main);
+    font-size: 1.5rem;
+    font-weight: 900;
+    color: var(--cor03);
+    padding-bottom: 20px;
+
+}

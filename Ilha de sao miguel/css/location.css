@@ -1,0 +1,23 @@
+.location{
+    height: 800px;
+    background-color: var(--cor01);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+
+.text-location{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.text-location, .second-text-location{
+    font-family: var(--fonte-main);
+    font-weight: 900;
+    font-size: 1.2rem;
+    line-height: 40px;
+    color: var(--cor03);
+}
