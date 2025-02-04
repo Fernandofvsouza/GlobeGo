@@ -25,3 +25,7 @@ body{
 img{
     max-width: 500px;
 }
+
+html{
+    scroll-behavior: smooth;
+}
