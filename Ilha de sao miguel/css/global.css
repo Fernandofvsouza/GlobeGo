@@ -29,3 +29,7 @@ img{
 html{
     scroll-behavior: smooth;
 }
+
+.about, .about-text, .food-title, .imgs, .food-description, .tourism-title, .first-tourism, .second-tourism, .third-tourism, .fourth-tourism, .text-location, .loc{
+    visibility: hidden;
+}
